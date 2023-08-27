@@ -1,4 +1,4 @@
-# Image-Search-Engine-Using-HTML-CSS-and-JavaScript
+# GIF Image-Search-Engine-Using-HTML-CSS-and-JavaScript
 
 HTML:
 We begin with the HTML Code. First, create a file called – ‘index.html’.
